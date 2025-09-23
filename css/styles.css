@@ -1,11 +1,16 @@
-body{
+/* blobal styles css */
+*{
   margin: 0;
   padding: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size:medium;
-  line-height: 1.6;
-  color: rgb(0, 0, 0);
-  background-color: aliceblue;
-  min-height: 100vh;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
 }
+
+body{
+ background-color: white;
+ color: black;
+ line-height: 1.6;
+}
+
+
 
