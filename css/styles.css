@@ -12,5 +12,32 @@ body{
  line-height: 1.6;
 }
 
+/* navigation css */
+.Nav_Container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 6%;
+  background-color:#2c7744 ;
+  box-shadow: 0 2px 5px;
+}
+
+.Nav_Container .image img{
+  height: 60px;
+}
+
+.Nav_Container ul li a{
+  text-decoration: none;
+  color: white;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+.Nav_Container ul li a:hover{
+  color:#1be24d ;
+}
+
+
+
 
 
