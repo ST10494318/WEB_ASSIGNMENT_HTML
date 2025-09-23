@@ -109,3 +109,42 @@ p{
   border-radius:5px 5px 0  ;
 }
 
+/* Meet Team Section */
+.meet{
+  text-align: center;
+  margin: 3rem 0;
+}
+
+.meet img{
+  height: 100px;
+  margin-top: 1rem;
+}
+
+.team_Container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 25px;
+  margin: 2rem 5%;
+}
+
+.team_Container div {
+  text-align: center;
+  width: 200px;
+}
+
+.team_Container img{
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px soli #4fc3a1;
+}
+
+.team_Container p{
+  margin-top: 10px;
+  font-weight: bold;
+  color: #2c7744;
+  text-align: center;
+}
+
