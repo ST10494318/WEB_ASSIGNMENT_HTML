@@ -87,5 +87,25 @@ p{
   text-align: justify;
 }
 
+/* Statistics Section */
+.statistics{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 200px;
+  margin: 2rem 0;
+  gap: 30px;
+}
 
+.bar{
+  width: 70px;
+  background-color:#1cbc6c ;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 15px;
+  color: rgb(22, 22, 22);
+  font-weight: bold;
+  border-radius:5px 5px 0  ;
+}
 
