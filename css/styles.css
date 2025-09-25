@@ -230,3 +230,60 @@ p:not(.H, .welcome, footer p) {
 .stats p:last-child {
   font-size: 1.2rem;
 }
+
+/* Upcoming Events Section */
+.Event_Container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.Event_Container > p {
+  font-size: 2rem;
+  color: #2E8B57; 
+  margin-bottom: 2rem;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.grid > div {
+  flex: 1;
+  min-width: 450px;
+  max-width: 100px;
+  background-color: #f1f8f1;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  border-top: 4px solid #3CB371; 
+}
+
+.grid p:first-child {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.grid p:nth-child(2) {
+  font-weight: bold;
+  color: #2E8B57; 
+  margin: 10px 0;
+}
+
+.grid input[type="button"] {
+  background-color: #3CB371; 
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: background-color 0.3s;
+}
+
+.grid input[type="button"]:hover {
+  background-color: #2E8B57; 
+}
