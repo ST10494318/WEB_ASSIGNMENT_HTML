@@ -520,4 +520,24 @@ iframe {
     background-color: #38a169;
 }
 
+/* Impact Section */
+.impact {
+    background-color: #e6f7f2;
+    padding: 30px;
+    margin: 2rem 5%;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.impact ol {
+    text-align: left;
+    display: inline-block;
+}
+
+.impact li {
+    margin: 10px 0;
+    color: #2c7744;
+    font-size: 1.1rem;
+}
+
 
