@@ -474,3 +474,50 @@ iframe {
     background-color: #38a169;
 }
 
+/* School/Community Container */
+.Sc_Container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin: 2rem 5%;
+}
+
+.SchlW_Container, .Community_clean_up {
+    background-color: #e6f7f2;
+    padding: 30px;
+    border-radius: 8px;
+    flex: 1;
+    min-width: 300px;
+}
+
+.SchlW_Container p:first-child, .Community_clean_up p:first-child {
+    color: #2c7744;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.SchlW_Container p:nth-child(2), .Community_clean_up p:nth-child(2) {
+    text-align: center;
+    color: #38a169;
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.SchlW_Container button, .Community_clean_up button {
+    background-color: #2c7744;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto 0;
+}
+
+.SchlW_Container button:hover, .Community_clean_up button:hover {
+    background-color: #38a169;
+}
+
+
