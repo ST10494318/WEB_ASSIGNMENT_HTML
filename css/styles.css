@@ -11,3 +11,36 @@ body {
   color: #333;
   line-height: 1.6;
 }
+
+/* Navigation Styles */
+.Nav_Container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #2E8B57; 
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.Nav_Container .image img {
+  height: 60px;
+}
+
+.Nav_Container ul {
+  list-style: none;
+  display: flex;
+}
+
+.Nav_Container ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin: 0 15px;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.Nav_Container ul li a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
