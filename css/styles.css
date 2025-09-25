@@ -145,3 +145,47 @@ p:not(.H, .welcome, footer p) {
   font-weight: bold;
   border-radius: 5px 5px 0 0;
 }
+
+/* Team Section */
+.meet {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.meet p {
+  font-size: 2rem;
+  color: #2E8B57; 
+  margin-bottom: 1rem;
+}
+
+.meet img {
+  height: 100px;
+}
+
+.team_Container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin: 2rem 0;
+  padding: 0 1rem;
+}
+
+.team_Container div {
+  text-align: center;
+  width: 200px;
+}
+
+.team_Container img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #3CB371; 
+}
+
+.team_Container p:first-of-type {
+  font-weight: bold;
+  margin-top: 10px;
+  color: #2E8B57; 
+}
