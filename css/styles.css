@@ -360,3 +360,117 @@ iframe {
 .category button:hover {
     background-color: #38a169;
 }
+
+/* Welcome Section */
+.wel {
+    background-color: #e6f7f2;
+    padding: 30px;
+    margin: 2rem 5%;
+    border-radius: 8px;
+}
+
+/* Stats Section */
+.stats {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.stats P {
+    text-align: center;
+    color: #2c7744;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.student, .waste, .community {
+    display: inline-block;
+    width: 30%;
+    min-width: 200px;
+    margin: 0 1%;
+    background-color: #e6f7f2;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.student img, .waste img, .community img {
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.student p:nth-child(2), .waste p:nth-child(2), .community p:nth-child(2) {
+    font-size: 2rem;
+    color: #38a169;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.student p:nth-child(3), .waste p:nth-child(3), .community p:nth-child(3) {
+    text-align: center;
+    color: #2c7744;
+    font-weight: bold;
+}
+
+/* Events Section */
+.Event_Container {
+    margin: 2rem 5%;
+}
+
+.Event_Container > p {
+    text-align: center;
+    color: #2c7744;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.Communityevent, .Schoolevent, .Generalevent, .General {
+    background-color: #e6f7f2;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.Communityevent p:first-child, 
+.Schoolevent p:first-child, 
+.Generalevent p:first-child, 
+.General p:first-child {
+    color: #38a169;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Communityevent p:nth-child(2), 
+.Schoolevent p:nth-child(2), 
+.Generalevent p:nth-child(2), 
+.General p:nth-child(2) {
+    color: #2c7744;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.Communityevent input[type=button], 
+.Schoolevent input[type=button], 
+.Generalevent input[type=button], 
+.General input[type=button] {
+    background-color: #2c7744;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 15px auto 0;
+}
+
+.Communityevent input[type=button]:hover, 
+.Schoolevent input[type=button]:hover, 
+.Generalevent input[type=button]:hover, 
+.General input[type=button]:hover {
+    background-color: #38a169;
+}
+
