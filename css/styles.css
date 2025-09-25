@@ -557,3 +557,69 @@ p:not(.H, .welcome, footer p) {
 .con input[type="button"]:hover {
   background-color: #2E8B57; 
 }
+
+/* Contact Page */
+.divs {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin: 2rem 0;
+  padding: 0 1rem;
+}
+
+.divs > div {
+  width: 500px;
+}
+
+.divs h3 {
+  color: #2E8B57; 
+  margin-bottom: 15px;
+}
+
+.container {
+  background-color: #f1f8f1;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+input, textarea {
+  padding: 8px;
+  margin: 5px 0 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+input[type="submit"] {
+  background-color: #3CB371; 
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: background-color 0.3s;
+}
+
+input[type="submit"]:hover {
+  background-color: #2E8B57; 
+}
+
+iframe {
+  width: 100%;
+  height: 300px;
+  border: none;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
