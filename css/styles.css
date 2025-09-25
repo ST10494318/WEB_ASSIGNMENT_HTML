@@ -683,3 +683,55 @@ footer {
   opacity: 0.8;
   text-decoration: underline;
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .Nav_Container {
+    flex-direction: column;
+    padding: 1rem;
+  }
+  
+  .Nav_Container ul {
+    margin-top: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .Nav_Container ul li a {
+    margin: 5px;
+  }
+  
+  .hero {
+    flex-direction: column;
+    height: auto;
+  }
+  
+  .hero img {
+    width: 100%;
+    height: 200px;
+  }
+  
+  .stats > div {
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  .grid {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .grid > div {
+    max-width: 100%;
+  }
+  
+  .volunteer_container, .Sc_Container, .divs {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .Volun, .Spn, .SchlW_Container, .Community_clean_up, .divs > div {
+    width: 100%;
+    max-width: 500px;
+  }
+}
