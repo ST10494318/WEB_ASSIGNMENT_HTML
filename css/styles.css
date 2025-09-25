@@ -148,3 +148,20 @@ p{
   text-align: center;
 }
 
+/* Get in Touch Section */
+.get {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.get h2 {
+    color: #2c7744;
+    font-size: 2.5rem;
+}
+
+.get h3 {
+    color: #4fc3a1;
+    font-size: 1.5rem;
+    margin-top: 0.5rem;
+}
+
