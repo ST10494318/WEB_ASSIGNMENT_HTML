@@ -623,3 +623,63 @@ iframe {
   border-radius: 8px;
   margin-bottom: 15px;
 }
+
+/* Footer */
+footer {
+  background-color: #2E8B57; 
+  color: white;
+  padding: 2rem 0;
+  margin-top: 3rem;
+}
+
+.ft {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.sub {
+  margin-bottom: 20px;
+}
+
+.sub p {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.sub input {
+  padding: 8px;
+  width: 250px;
+  border: none;
+  border-radius: 4px 0 0 4px;
+}
+
+.sub button {
+  background-color: #3CB371; 
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.sub button:hover {
+  background-color: #2E8B57; 
+}
+
+.ft p {
+  margin: 10px 0;
+}
+
+.ft a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  transition: opacity 0.3s;
+}
+
+.ft a:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
