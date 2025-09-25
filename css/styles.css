@@ -123,3 +123,25 @@ p:not(.H, .welcome, footer p) {
   color: #2E8B57; 
   margin-bottom: 1rem;
 }
+
+/* Statistics Section */
+.statitics {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 200px;
+  margin: 2rem 0;
+  gap: 20px;
+}
+
+.bar {
+  width: 60px;
+  background-color: #3CB371; 
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 10px;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px 5px 0 0;
+}
