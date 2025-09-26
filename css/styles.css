@@ -317,7 +317,7 @@ p:not(.H, .welcome, footer p) {
 .Volun, .Spn {
   width: 400px;
   text-align: center;
-  background-color: #f1f8f1;
+  background-color: #b8f3d7;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -360,7 +360,7 @@ p:not(.H, .welcome, footer p) {
   max-width: 600px;
   margin: 2rem auto;
   padding: 20px;
-  background-color: #f1f8f1;
+  background-color: #b8f3d7;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
@@ -368,7 +368,7 @@ p:not(.H, .welcome, footer p) {
 .form > p {
   text-align: center;
   font-size: 1.5rem;
-  color: #2E8B57; 
+  color: #000000; 
   margin-bottom: 20px;
 }
 
@@ -462,7 +462,7 @@ p:not(.H, .welcome, footer p) {
 
 .SchlW_Container, .Community_clean_up {
   width: 500px;
-  background-color: #f1f8f1;
+  background-color: #b8f3d7;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -578,7 +578,7 @@ p:not(.H, .welcome, footer p) {
 }
 
 .container {
-  background-color: #f1f8f1;
+  background-color: #b8f3d7;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
