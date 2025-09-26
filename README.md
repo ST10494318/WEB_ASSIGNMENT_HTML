@@ -151,3 +151,101 @@ OpenAI. (2024) A detailed description of your image goes here [AI-generated imag
 •	Html form code 
 
 W3Schools (no date) HTML tutorial. Available at: https://www.w3schools.com/html/ (Accessed: 27 August 2025).
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+PART 2 IMPLMMENTED STYLING
+
+CSS Styling Implementation
+
+1. Desktop Styling
+1.1 External Stylesheet
+
+Created an external CSS file style.css and linked it to all HTML files.
+
+Used consistent class and ID naming.
+
+1.2 Base Style
+
+Defined default styles for font-family, font-size, color scheme, and margins/padding.
+
+Used a CSS reset  margin: 0; padding: 0; box-sizing: border-box;  to ensure consistent styling across browsers.
+
+1.3 Typography Styles
+
+Applied font-family, font-size, line-height, and letter-spacing for readability.
+
+Used typography scales to maintain consistent text hierarchy.
+
+1.4 Layout Structure
+
+Implemented CSS Grid and Flexbox for layout structure.
+
+Applied CSS properties like display: flex, justify-content, align-items, and grid-template-areas.
+
+1.5 Visual Styles
+
+Used properties such as color, background-color, border, and box-shadow for styling.
+
+Added interactive pseudo-classes like :hover, :focus, and :active.
+
+2. Responsive Design
+2.1 Breakpoints
+
+Defined breakpoints for desktop, tablet, and mobile using media queries.
+
+Multi-column layout for desktop, switching to single-column on smaller screens.
+
+2.2 Relative Units
+
+Used em and rem for font sizes and spacing.
+
+Used % for widths and heights to make elements flexible.
+
+2.3 Responsive Images
+
+Implemented srcset and sizes attributes for adaptive image loading.
+
+Used picture lement for optimized images across devices.
+
+2.4 Testing
+
+Used browser dev tools to test on multiple screen sizes.
+
+Included screenshots of desktop, tablet, and mobile versions (see below).
+
+Iterated on design to improve user experience.
+
+3. Additional Best Practices
+
+Prioritised Content: Kept content as the main focus.
+
+Kept It Simple: Avoided unnecessary complexity.
+
+Tested Thoroughly: Tested on different browsers and devices.
+
+Stayed Up-to-Date: Followed latest CSS best practices.
+
+Screenshots:
+
+DESKTOP:
+
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194456" src="https://github.com/user-attachments/assets/13c66e18-5939-4099-84d9-68ce3d1d630b" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194519" src="https://github.com/user-attachments/assets/bf77f818-174f-4be0-ba30-d68512ae098c" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194608" src="https://github.com/user-attachments/assets/dd70fe56-d4b7-4cf1-a7d6-fd476414a62b" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194557" src="https://github.com/user-attachments/assets/2c06ba1e-f5dc-4a93-aa50-8488b4126c3c" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194736" src="https://github.com/user-attachments/assets/12e718d5-7980-4972-b5bf-714f879423e4" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194719" src="https://github.com/user-attachments/assets/9f80e305-7b36-4043-94b6-ab0140a0c02d" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194703" src="https://github.com/user-attachments/assets/207d2e23-9187-4344-853d-5924950c08fd" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194655" src="https://github.com/user-attachments/assets/f6f6b79f-438e-44c0-a0e5-a638c01879da" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194644" src="https://github.com/user-attachments/assets/b9007227-c4b3-4f08-9bd9-94cd79128ecc" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194629" src="https://github.com/user-attachments/assets/abb29a2c-0bd3-42ee-bb5e-00d248d273dc" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194621" src="https://github.com/user-attachments/assets/071256f6-f21d-431c-9e7f-8fea9f88dba2" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194545" src="https://github.com/user-attachments/assets/7c0d2960-447b-4165-a98c-7513d37f1581" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 194530" src="https://github.com/user-attachments/assets/c00e02d6-2555-46d0-b3bd-252c36f806f2" />
+
+MOBILE:
+
+
