@@ -251,8 +251,14 @@ Tablet:
 
 https://github.com/user-attachments/assets/d94f443e-ae15-442f-8e20-1a49dcf892a6
 
+REFFERENCES :
 
+W3Schools (no date) CSS tutorial. Available at: https://www.w3schools.com/css/ (Accessed: 27 August 2025).
 
+United Nations (2018) UN Sustainable Development Goals - Overview. [Video]. YouTube. Available at: https://youtu.be/OXGznpKZ_sA (Accessed: 23 May 2024)
 
+Harvard University (2014) Striving for a Sustainable Future: The 2014 Harvard Horizons Symposium. [Video]. YouTube. Available at: https://youtu.be/wsTv9y931o8 (Accessed: 23 May 2024).
+
+World Economic Forum (2014) What is the Fourth Industrial Revolution? [Video]. YouTube. Available at: https://youtu.be/-G-zic_LS0A (Accessed: 23 May 2024).
 
 
