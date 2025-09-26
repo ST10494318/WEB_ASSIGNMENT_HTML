@@ -246,6 +246,11 @@ DESKTOP:
 <img width="1920" height="1200" alt="Screenshot 2025-09-26 194545" src="https://github.com/user-attachments/assets/7c0d2960-447b-4165-a98c-7513d37f1581" />
 <img width="1920" height="1200" alt="Screenshot 2025-09-26 194530" src="https://github.com/user-attachments/assets/c00e02d6-2555-46d0-b3bd-252c36f806f2" />
 
+
 MOBILE:
+
+https://github.com/user-attachments/assets/d94f443e-ae15-442f-8e20-1a49dcf892a6
+
+
 
 
