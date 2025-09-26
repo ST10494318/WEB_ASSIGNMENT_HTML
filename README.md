@@ -247,7 +247,7 @@ DESKTOP:
 <img width="1920" height="1200" alt="Screenshot 2025-09-26 194530" src="https://github.com/user-attachments/assets/c00e02d6-2555-46d0-b3bd-252c36f806f2" />
 
 
-MOBILE:
+Tablet:
 
 https://github.com/user-attachments/assets/d94f443e-ae15-442f-8e20-1a49dcf892a6
 
